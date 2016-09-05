@@ -12,9 +12,11 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>你好， 我叫薛运昊。</p>
+     <p>Hello, welcome to my blog, my name is Yunhao Xue(薛运昊)</p>
 
-     <p>Aspriring Software Engineer, WoW and DotA 2 Fans, 同时, 也是一个孤独的人。</p>
+     <p>Software Engineering Intern @ Arista Networks, uWaterloo CS undergrad.</p>
+
+     <p>我不想一个人。</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
