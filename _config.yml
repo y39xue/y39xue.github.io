@@ -14,16 +14,15 @@ theme_settings:
   header_text: >
      <p>Hello, welcome to my blog, my name is Yunhao Xue(薛运昊)</p>
 
-     <p>Software Engineering Intern @ Arista Networks, uWaterloo CS undergrad.</p>
+     <p>To angel Victoria.</p>
 
-     <p>我不想一个人。</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "yunhao39xue@gmail.com"
   behance:
   bitbucket:
   dribbble:
