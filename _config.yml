@@ -12,9 +12,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>你好， 我叫薛运昊。</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Aspriring Software Engineer, WoW and DotA 2 Fans, 同时, 也是一个孤独的人。</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -30,7 +30,7 @@ theme_settings:
   github: "rohanchandra/type-theme"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "https://ca.linkedin.com/in/y39xue"
   pinterest:
   reddit:
   soundcloud:
